@@ -1,10 +1,10 @@
 # Loan-Management-System
 Identifying inefficiencies in loan processing and the lack of user-friendly interfaces in financial institutions. • Secure Web-based system to streamline the entire loan lifecycle, from application to repayment. • Built a responsive frontend using HTML, CSS, and JavaScript for seamless user interaction. 
 
-How it works
+# How it works
 The Loan Management software is a web-based application that helps manage and track loans efficiently. It provides features to streamline the loan application process, automate loan approvals, and monitor loan repayments. This README file provides an overview of the software and instructions for installation, configuration, and usage.
 
-Features
+# Features
 Beautiful, User-friendly interface for managing loans, borrowers, and lenders
 Add different types of loans, their percentage and intrest cycle
 Add different types of wallets accounts such as expense wallet including expense categories for business expenses and loan wallet for loans payouts.
